@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">Full Stack Engineer</h1>
+<h1 align="center">Software Engineer</h1>
 
 ###
 
