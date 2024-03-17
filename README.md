@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm from karachi, sindh, pakistan<br><br>- 🔭 I’m working as full stack engineer<br>- 📚 I'm currently learning laravel 10<br>- ⚡ In my free time i read articles on latest technology trends</p>
+<p align="left">I'm from karachi, sindh, pakistan<br><br>- 🔭 I’m working as a full stack engineer<br>- 📚 I'm currently learning laravel 10<br>- ⚡ In my free time i read articles on latest technology trends</p>
 
 ###
 
