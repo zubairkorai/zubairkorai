@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm from karachi, sindh, pakistan<br><br>- 🔭 I’m working as a full stack engineer<br>- 📚 I'm currently learning laravel 10<br>- ⚡ In my free time i read articles on latest technology trends</p>
+<p align="left">I'm from Karachi, Sindh, Pakistan<br><br>- 🔭 I’m working as a Software Engineer<br>- 📚 I'm currently learning laravel 11<br>- ⚡ In my free time, I am passionate about continuous learning and personal development.</p>
 
 ###
 
@@ -37,13 +37,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
 </div>
