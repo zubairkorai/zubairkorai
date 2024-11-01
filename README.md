@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm from Karachi, Sindh, Pakistan<br><br>-  I’m working as a Software Engineer<br>-  In my free time, I am passionate about continuous learning and personal development.</p>
+<p align="left">I'm from Karachi, Sindh, Pakistan<br><br>-  I’m working as a Software Engineer<br>-  I am passionate about continuous learning and personal development.</p>
 
 ###
 
