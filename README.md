@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🎓 Information Technology Graduate | Pursuing a Master's in IT<br>🌟 Passionate about creating scalable web applications and exploring innovative research opportunities.<br>🛠️ Proficient in JavaScript, TypeScript, React.js, Node.js, SQL, and AWS.</p>
+<p align="left">🎓 Information Technology Graduate <br>🌟 Passionate about creating scalable web applications and exploring innovative research opportunities.<br>🛠️ Proficient in JavaScript, TypeScript, React.js, Node.js, SQL, and AWS.</p>
 
 ###
 
