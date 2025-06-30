@@ -27,5 +27,3 @@ Databases: MySQL, MongoDB
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mysql,mongodb,aws,docker,git" /> </p>
 
-
-<p align="center"> <img src="https://streak-stats.demolab.com?user=zubairkorai&theme=radical" width="49%" /> </p>
